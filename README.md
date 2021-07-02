@@ -4,7 +4,7 @@
 <img src="./img/logo.png" width="100%" />
 I discovered Kubernetes and performed my first web orchestration.
 
-## Functional
+## Services
 <img align="right" src="./img/map.png" width="50%" />
 
 - Kubernetes web dashboard
