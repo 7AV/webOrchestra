@@ -2,22 +2,26 @@
 
 # webOrchestra
 <img src="./img/logo.png" width="100%" />
-I discovered Docker and set up my first web server.
+I discovered Kubernetes and performed my first web orchestration.
 
 ## Functional
+<img align="right" src="./img/map.png" width="50%" />
+
+- Kubernetes web dashboard
+- Load Balancer (MetalLB)
+- Nginx
+- Website based on WordPress
+- phpMyAdmin
+- MySQL
+- FTPS
+- Telegraf
+- InfluxDB
+- Grafana
 
 
-- The container OS is debian buster.
-- Web server is set up with Nginx.
-- On web server is running:
-  - [x] Website based on WordPress
-  - [x] phpMyAdmin
-  - [x] MySQL linked with other services
-- Server uses the SSL protocol.
-- Server redirects to the correct website.
-- Server is running with disbled autoindex.
 
-<img src="./img/map.png" width="100%" />
+
+
 
 
 ## Quick start
