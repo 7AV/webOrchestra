@@ -17,12 +17,13 @@ I discovered Docker and set up my first web server.
 - Server redirects to the correct website.
 - Server is running with disbled autoindex.
 
-<img src="./img/schema.png" width="100%" />
+<img src="./img/map.png" width="100%" />
+
 
 ## Quick start
 
 ```bash
-git clone https://github.com/anvv5/dockerContainer.git ; cd dockerContainer ; docker build -t server . ; docker run -it -p 80:80 -p 443:443 server ;
+git clone https://github.com/anvv5/webOrchestra.git ; cd webOrchestra ; ./setup.sh ;
 
 ```
 
